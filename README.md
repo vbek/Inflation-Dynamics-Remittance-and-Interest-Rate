@@ -90,8 +90,6 @@ cd Inflation-Dynamics-Remittance-and-Interest-Rate
 # Install required dependencies
 pip install -r requirements.txt
 
-# Run analysis
-python main.py
 ```
 
 ---
