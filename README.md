@@ -84,7 +84,7 @@ Inflation significantly affects purchasing power and economic stability, especia
 To reproduce results:
 ```bash
 # Clone the repository
-git clone https://github.com/vbek/Inflation-Dynamics.git
+git clone https://github.com/vbek/Inflation-Dynamics-Remittance-and-Interest-Rate.git
 cd Inflation-Dynamics
 
 # Install required dependencies
