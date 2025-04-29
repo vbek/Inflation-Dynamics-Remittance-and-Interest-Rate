@@ -85,7 +85,7 @@ To reproduce results:
 ```bash
 # Clone the repository
 git clone https://github.com/vbek/Inflation-Dynamics-Remittance-and-Interest-Rate.git
-cd Inflation-Dynamics
+cd Inflation-Dynamics-Remittance-and-Interest-Rate
 
 # Install required dependencies
 pip install -r requirements.txt
